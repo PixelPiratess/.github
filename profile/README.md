@@ -40,7 +40,7 @@ Here be some of the **legendary projects** that we've crafted on our voyages:
 - **🛡️ Soon**
 - **🌐 Stay Tuned**
 
-Want to take a look at more of our prized treasures? [Explore our repositories!](https://github.com/PixelPiratess/repositories)
+Want to take a look at more of our prized treasures? [Explore our repositories!](https://github.com/orgs/PixelPiratess/repositories)
 
 ## 📜 Pirate's Code of Conduct
 The Pixel Pirates Code isn’t just for show — it’s our way of keeping the ship afloat and the seas friendly. Here’s what we stand for:
